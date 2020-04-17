@@ -1,0 +1,11 @@
+{
+    "android":{
+        "release": {
+            "keystore": "app-key.store",
+            "storePassword": "zalazarz",
+            "alias": "app-key",
+            "password": "zalazarz",
+            "keystoreType": ""
+        }
+    }
+}
